@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: lightgrey;
+}
+
+#projects {
+  background-color: lightgrey;
+}
+
+footer img {
+  width: 75px;
+  height: 40px;
+}
+
+section {
+  padding-top: 5rem;
+}
